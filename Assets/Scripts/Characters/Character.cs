@@ -15,4 +15,16 @@ public class Character : Entity
     public float NatureResistance { get; set; }
     public float WaterResistance { get; set; }
     public float FireResistance { get; set; }
+
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 }
